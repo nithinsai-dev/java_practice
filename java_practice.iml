@@ -3,11 +3,13 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/Mini_project/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Mini_project/calculators/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Mini_project/mini_games/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/OOPS_learning/quiz_game/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/OOPS_learning/rock_paper_scissor/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java-learning/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/s/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sample/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/sample3/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>

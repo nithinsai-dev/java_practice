@@ -1,4 +1,4 @@
-package mini_game;
+package com;
 
 import java.util.Random;
 import java.util.Scanner;

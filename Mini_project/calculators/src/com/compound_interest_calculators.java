@@ -1,7 +1,8 @@
-package calculator;
+package com;
 
 import java.util.Scanner;
-public class compound_interest_calculator {
+
+public class compound_interest_calculators {
     public static void main(String[] args){
         // compound interest calculator
 
@@ -30,3 +31,5 @@ public class compound_interest_calculator {
         scanner.close();
     }
 }
+
+
