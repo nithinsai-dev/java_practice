@@ -1,4 +1,4 @@
-package com;
+package mini_game;
 
 import java.util.Scanner;
 
