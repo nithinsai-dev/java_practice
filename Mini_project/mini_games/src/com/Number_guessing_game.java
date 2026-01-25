@@ -27,7 +27,7 @@ public class Number_guessing_game {
             else if (number < guess) {
                 System.out.print("TOO HIGH,Try again\n");
             }
-            else if (number < guess){
+            else{
                 System.out.println("You won It is the correct number");
                 System.out.println("The number of attempts is " + attempts );
             }
