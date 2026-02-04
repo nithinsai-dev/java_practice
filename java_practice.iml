@@ -16,6 +16,8 @@
       <sourceFolder url="file://$MODULE_DIR$/practice excercise/Practical applications/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/practice excercise/Strings/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/practice excercise/Patterns/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/practice excercise/Loops/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/practice excercise/basics/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
