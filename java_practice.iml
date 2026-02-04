@@ -11,13 +11,14 @@
       <sourceFolder url="file://$MODULE_DIR$/s/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/sample/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/sample3/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Mini_project/Converters/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/practice excercise/Practical applications/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/practice excercise/Strings/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/practice excercise/Patterns/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OOPSpractice/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/practice excercise/Loops/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/practice excercise/basics/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

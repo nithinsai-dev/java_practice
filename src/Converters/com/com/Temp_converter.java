@@ -1,4 +1,4 @@
-package com;
+package Converters.com.com;
 
 import java.util.Scanner;
 public class Temp_converter {

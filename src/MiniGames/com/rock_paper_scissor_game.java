@@ -1,4 +1,4 @@
-package com;
+package MiniGames.com;
 
 import java.util.Random;
 import java.util.Scanner;
