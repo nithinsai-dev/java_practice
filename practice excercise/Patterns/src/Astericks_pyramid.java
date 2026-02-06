@@ -12,7 +12,8 @@ public class Astericks_pyramid {
             }
             for(int k=0; k<i; k++){
                 System.out.print("*"+" ");
-            }System.out.println();
+            }
+            System.out.println();
         }
 
 
