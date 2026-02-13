@@ -4,7 +4,7 @@ public class BinaryToOctal {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Enter the octal number : ");
+        System.out.print("Enter the binary number : ");
         int binary = scanner.nextInt();
 
         int temp = binary;
