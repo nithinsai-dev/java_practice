@@ -18,6 +18,11 @@ This project is organized by topic and type of program:
     - Arrays
     - Functions / methods
     - User input
+    - Strings
+    - Abstarction
+    - Polymorphism
+    - Encapsulation
+    - Inheritance
 
 > 📌 This repository will continue to grow as I learn more about Java and expand into OOPS and Data Structures.
 
