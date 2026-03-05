@@ -16,7 +16,7 @@ public class Main {
             animal = new Cat();
         }
         else{
-            animal = new Cat();
+            animal = new Dog();
         }
 
         animal.sound();
