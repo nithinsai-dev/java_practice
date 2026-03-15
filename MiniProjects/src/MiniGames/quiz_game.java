@@ -1,4 +1,4 @@
-package MiniGames.com;
+package MiniGames;
 
 import java.util.Scanner;
 
