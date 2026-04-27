@@ -24,6 +24,7 @@
       <sourceFolder url="file://$MODULE_DIR$/practice excercise/conversions/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Basics/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/MiniProjects/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LabEval/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
