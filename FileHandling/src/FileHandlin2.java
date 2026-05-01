@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 
 public class FileHandlin2 {
     static void main(String[] args) {
-        try (BufferedReader br = new BufferedReader(new FileReader("C:\\Users\\NITHIN SAI\\Desktop\\Test.txt"))) {
+        try (BufferedReader br = new BufferedReader(new FileReader("Test.txt"))) {
             String line;
             while((line = br.readLine()) != null) {
                 System.out.println(line);

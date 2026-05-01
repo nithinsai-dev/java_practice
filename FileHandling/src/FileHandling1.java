@@ -2,7 +2,7 @@ import java.io.*;
 
 public class FileHandling1 {
     public static void main(String[] args){
-        try(FileWriter fw = new FileWriter("C:\\Users\\NITHIN SAI\\Desktop\\Test.txt")){
+        try(FileWriter fw = new FileWriter("Test.txt")){
             fw.write("""
                     Roses are red,
                     Violets are purple,
