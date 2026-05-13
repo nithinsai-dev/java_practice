@@ -3,7 +3,7 @@ import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);  // ✅ single scanner, outside loop
+        Scanner scanner = new Scanner(System.in);  //  single scanner, outside loop
         boolean running = true;
 
         while (running) {
